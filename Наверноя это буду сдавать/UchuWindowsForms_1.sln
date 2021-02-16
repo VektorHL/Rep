@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UchuWindowsForms_1", "UchuWindowsForms_1\UchuWindowsForms_1.csproj", "{0983B85F-78C0-4F7A-A530-CC4A13DBF188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0983B85F-78C0-4F7A-A530-CC4A13DBF188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0983B85F-78C0-4F7A-A530-CC4A13DBF188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0983B85F-78C0-4F7A-A530-CC4A13DBF188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0983B85F-78C0-4F7A-A530-CC4A13DBF188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F042EAC6-1EDB-462B-868A-1F7A8598F9DD}
+	EndGlobalSection
+EndGlobal
